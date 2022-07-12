@@ -1,2 +1,5 @@
 This file is created from gitbash using command notepad first.txt
 Time 12:14
+merging branches 
+problem when they same no.of lines
+
