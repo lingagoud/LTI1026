@@ -1,2 +1,4 @@
 This file is created from gitbash using command notepad first.txt
 Time 12:14
+
+Only branching to second.txt
