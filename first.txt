@@ -1,5 +1,4 @@
 This file is created from gitbash using command notepad first.txt
 Time 12:14
-only adding to branch 2
+merging braches
 
-checking merging branches
